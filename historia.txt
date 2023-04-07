@@ -7,5 +7,5 @@ Estudio en el centro universitario de oriente.
 Toco el sax. Me gusta jugar ajedrez y mi color favorito es el gris.
 
 ----------------------
-Este mensaje pertence a la rama secundaria.
+Este mensaje pertence a la rama MASTER.
 -----------------------
