@@ -5,3 +5,7 @@ Soy estudiante de ingeniería en sistemas y ingrese en el 2020.
 Estudio en el centro universitario de oriente.
 
 Toco el sax. Me gusta jugar ajedrez y mi color favorito es el gris.
+
+----------------------
+Este mensaje pertence a la rama secundaria.
+-----------------------
